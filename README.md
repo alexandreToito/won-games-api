@@ -1,4 +1,4 @@
-# React Avançado - Won Games API
+#  Won Games API
 
 This is the API to create the Won Games Store from [React Avançado course](https://reactavancado.com.br/).
 
